@@ -10,7 +10,7 @@ Contents:
 
 2 Analog to Digital Converter (.asm)
 
-3 SPI & Python Stripchart
+3 SPI & Python Stripchart (.asm, .py)
 
 4 Capacitance Meter (.c)
 
